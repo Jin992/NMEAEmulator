@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>res/pin.png</file>
+        <file>ConfigPanel.qml</file>
+        <file>res/green_gear.png</file>
+        <file>res/red_gear.png</file>
+    </qresource>
+</RCC>
